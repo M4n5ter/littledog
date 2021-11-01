@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="powershell.exe" />
+    <option name="myTabName" value="局部" />
+  </component>
+</application>
